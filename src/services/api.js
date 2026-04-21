@@ -3,7 +3,7 @@ import axios from "axios";
 /**
  * Базовый URL API
  */
-const API_URL = "http://localhost:8080/api";
+const API_URL = "https://antonkrutko.azurewebsites.net/api";
 
 /**
  * Axios instance
